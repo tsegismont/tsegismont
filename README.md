@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m with [Red Hat](https://www.redhat.com/en), currently working on:
-  - [Eclipse Vert.x](https://github.com/eclipse-vertx/vert.x)
-  - [Quarkus](https://github.com/quarkusio/quarkus)
+I work at IBM, mainly on [Eclipse Vert.x](https://github.com/eclipse-vertx/vert.x) and [Quarkus](https://github.com/quarkusio/quarkus)
 
 <!--
 **tsegismont/tsegismont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
